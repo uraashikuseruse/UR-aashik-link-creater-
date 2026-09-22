@@ -1,7 +1,6 @@
 {
   "name": "ur-aashik-link-creater",
   "version": 2,
-  "public": true,
   "builds": [
     {
       "src": "**/*",
